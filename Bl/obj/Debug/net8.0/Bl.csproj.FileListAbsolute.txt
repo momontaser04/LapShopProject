@@ -1,0 +1,53 @@
+E:\mohamed\الاكواد\LapShopPr\Bl\bin\Debug\net8.0\Bl.deps.json
+E:\mohamed\الاكواد\LapShopPr\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+E:\mohamed\الاكواد\LapShopPr\Bl\bin\Debug\net8.0\Bl.dll
+E:\mohamed\الاكواد\LapShopPr\Bl\bin\Debug\net8.0\Bl.pdb
+E:\mohamed\الاكواد\LapShopPr\Bl\bin\Debug\net8.0\Domains.dll
+E:\mohamed\الاكواد\LapShopPr\Bl\bin\Debug\net8.0\Domains.pdb
+E:\mohamed\الاكواد\LapShopPr\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+E:\mohamed\الاكواد\LapShopPr\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohamed\الاكواد\LapShopPr\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+E:\mohamed\الاكواد\LapShopPr\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+E:\mohamed\الاكواد\LapShopPr\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+E:\mohamed\الاكواد\LapShopPr\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+E:\mohamed\الاكواد\LapShopPr\Bl\obj\Debug\net8.0\Bl.dll
+E:\mohamed\الاكواد\LapShopPr\Bl\obj\Debug\net8.0\refint\Bl.dll
+E:\mohamed\الاكواد\LapShopPr\Bl\obj\Debug\net8.0\Bl.pdb
+E:\mohamed\الاكواد\LapShopPr\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+E:\mohamed\الاكواد\LapShopPr\Bl\obj\Debug\net8.0\ref\Bl.dll
+E:\mohamed\Codes\LapShopPr\Bl\bin\Debug\net8.0\Bl.deps.json
+E:\mohamed\Codes\LapShopPr\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+E:\mohamed\Codes\LapShopPr\Bl\bin\Debug\net8.0\Bl.dll
+E:\mohamed\Codes\LapShopPr\Bl\bin\Debug\net8.0\Bl.pdb
+E:\mohamed\Codes\LapShopPr\Bl\bin\Debug\net8.0\Domains.dll
+E:\mohamed\Codes\LapShopPr\Bl\bin\Debug\net8.0\Domains.pdb
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\Bl.sourcelink.json
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\Bl.dll
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\refint\Bl.dll
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\Bl.pdb
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+E:\mohamed\Codes\LapShopPr\Bl\obj\Debug\net8.0\ref\Bl.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\bin\Debug\net8.0\Bl.deps.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\bin\Debug\net8.0\Bl.runtimeconfig.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\bin\Debug\net8.0\Bl.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\bin\Debug\net8.0\Bl.pdb
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\bin\Debug\net8.0\Domains.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\bin\Debug\net8.0\Domains.pdb
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\Bl.csproj.AssemblyReference.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfoInputs.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\Bl.AssemblyInfo.cs
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\Bl.csproj.CoreCompileInputs.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\Bl.sourcelink.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\Bl.csproj.Up2Date
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\Bl.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\refint\Bl.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\Bl.pdb
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\Bl.genruntimeconfig.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\Bl\obj\Debug\net8.0\ref\Bl.dll

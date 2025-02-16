@@ -1,0 +1,121 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model ShoppingCart
+
+<!--section start-->
+<section class="cart-section section-b-space">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <table class="table cart-table table-responsive-xs">
+                    <thead>
+                        <tr class="table-head">
+                            <th scope="col">@ResAdmin.lblImage</th>
+                            <th scope="col">@ResAdmin.lblproduct_name</th>
+                            <th scope="col">@ResAdmin.lblPrice</th>
+                            <th scope="col">@ResAdmin.lblquantity</th>
+                            <th scope="col">@ResAdmin.lblaction</th>
+                            <th scope="col">@ResAdmin.lbltotal</th>
+                        </tr>
+                    </thead>
+
+                    @foreach(var item in Model.LstItems)
+                    {
+
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <a href="#"><img src="../assets/images/pro3/1.jpg" alt=""></a>
+                                </td>
+                                <td>
+                                    <a href="#">@item.ItemName</a>
+                                    <div class="mobile-cart-content row">
+                                        <div class="col-xs-3">
+                                            <div class="qty-box">
+                                                <div class="input-group">
+                                                    <input type="text" name="quantity" class="form-control input-number"
+                                                           value="@item.Qty">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-3">
+                                            <h2 class="td-color">$@item.Price</h2>
+                                        </div>
+                                        <div class="col-xs-3">
+                                            <h2 class="td-color">
+                                                <a href="#" class="icon"><i class="ti-close"></i></a>
+                                            </h2>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <h2>$@item.Price</h2>
+                                </td>
+                                <td>
+                                    <div class="qty-box">
+                                        <div class="input-group">
+                                            <input type="number" name="quantity"
+                                                   class="form-control input-number qty"
+                                                   data-id="@item.ItemId" data-price="@item.Price"
+                                                   value="@item.Qty" onkeyup="ChangeQty(this)">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td><a href="#" class="icon"><i class="ti-close"></i></a></td>
+                                <td>
+                                    <h2 data-id="@item.ItemId" class="td-color totalPrice">@item.Total</h2>
+                                </td>
+                            </tr>
+                        </tbody>
+                    }
+
+                   
+                 
+                </table>
+                <table class="table cart-table table-responsive-md">
+                    <tfoot>
+                        <tr>
+                            <td>total price :</td>
+                            <td>
+                                <h2>$@Model.Total</h2>
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+        <div class="row cart-buttons">
+            <div class="col-6"><a href="#" class="btn btn-solid">continue shopping</a></div>
+            <div class="col-6"><a href="/Order/OrderSuccess" class="btn btn-solid">check out</a></div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<script>
+    function ChangeQty(input) {
+        let id = $(input).data("id");
+        let price = $(input).data("price");
+        let qty = $(input).val();
+        let OverAllTotal = 0;
+        $(".totalPrice").each(function (i) {
+
+            if ($(this).data("id") === id) {
+                $(this).html(price * qty);
+            }
+            console.log($(this).html());
+            OverAllTotal = OverAllTotal + parseFloat($(this).text());
+            console.log(OverAllTotal);
+        });
+        console.log(OverAllTotal);
+        $("#OverAllTotal").html(OverAllTotal);
+
+        // ajax resuest
+    }
+</script>

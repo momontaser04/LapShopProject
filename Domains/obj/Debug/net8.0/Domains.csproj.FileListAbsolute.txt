@@ -1,0 +1,38 @@
+E:\mohamed\الاكواد\LapShopPr\Domains\obj\Debug\net8.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohamed\الاكواد\LapShopPr\Domains\obj\Debug\net8.0\Domains.AssemblyInfoInputs.cache
+E:\mohamed\الاكواد\LapShopPr\Domains\obj\Debug\net8.0\Domains.AssemblyInfo.cs
+E:\mohamed\الاكواد\LapShopPr\Domains\obj\Debug\net8.0\Domains.csproj.CoreCompileInputs.cache
+E:\mohamed\الاكواد\LapShopPr\Domains\bin\Debug\net8.0\Domains.deps.json
+E:\mohamed\الاكواد\LapShopPr\Domains\bin\Debug\net8.0\Domains.dll
+E:\mohamed\الاكواد\LapShopPr\Domains\bin\Debug\net8.0\Domains.pdb
+E:\mohamed\الاكواد\LapShopPr\Domains\obj\Debug\net8.0\Domains.csproj.AssemblyReference.cache
+E:\mohamed\الاكواد\LapShopPr\Domains\obj\Debug\net8.0\Domains.dll
+E:\mohamed\الاكواد\LapShopPr\Domains\obj\Debug\net8.0\refint\Domains.dll
+E:\mohamed\الاكواد\LapShopPr\Domains\obj\Debug\net8.0\Domains.pdb
+E:\mohamed\الاكواد\LapShopPr\Domains\obj\Debug\net8.0\ref\Domains.dll
+E:\mohamed\Codes\LapShopPr\Domains\bin\Debug\net8.0\Domains.deps.json
+E:\mohamed\Codes\LapShopPr\Domains\bin\Debug\net8.0\Domains.dll
+E:\mohamed\Codes\LapShopPr\Domains\bin\Debug\net8.0\Domains.pdb
+E:\mohamed\Codes\LapShopPr\Domains\obj\Debug\net8.0\Domains.csproj.AssemblyReference.cache
+E:\mohamed\Codes\LapShopPr\Domains\obj\Debug\net8.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohamed\Codes\LapShopPr\Domains\obj\Debug\net8.0\Domains.AssemblyInfoInputs.cache
+E:\mohamed\Codes\LapShopPr\Domains\obj\Debug\net8.0\Domains.AssemblyInfo.cs
+E:\mohamed\Codes\LapShopPr\Domains\obj\Debug\net8.0\Domains.csproj.CoreCompileInputs.cache
+E:\mohamed\Codes\LapShopPr\Domains\obj\Debug\net8.0\Domains.sourcelink.json
+E:\mohamed\Codes\LapShopPr\Domains\obj\Debug\net8.0\Domains.dll
+E:\mohamed\Codes\LapShopPr\Domains\obj\Debug\net8.0\refint\Domains.dll
+E:\mohamed\Codes\LapShopPr\Domains\obj\Debug\net8.0\Domains.pdb
+E:\mohamed\Codes\LapShopPr\Domains\obj\Debug\net8.0\ref\Domains.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\bin\Debug\net8.0\Domains.deps.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\bin\Debug\net8.0\Domains.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\bin\Debug\net8.0\Domains.pdb
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\obj\Debug\net8.0\Domains.csproj.AssemblyReference.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\obj\Debug\net8.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\obj\Debug\net8.0\Domains.AssemblyInfoInputs.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\obj\Debug\net8.0\Domains.AssemblyInfo.cs
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\obj\Debug\net8.0\Domains.csproj.CoreCompileInputs.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\obj\Debug\net8.0\Domains.sourcelink.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\obj\Debug\net8.0\Domains.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\obj\Debug\net8.0\refint\Domains.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\obj\Debug\net8.0\Domains.pdb
+E:\mohamed\Codes\New folder (2)\LapShopProject\Domains\obj\Debug\net8.0\ref\Domains.dll

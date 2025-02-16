@@ -1,0 +1,476 @@
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\appsettings.Development.json
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\appsettings.json
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.exe
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.deps.json
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.runtimeconfig.json
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.pdb
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Azure.Core.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Azure.Identity.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Memory.Data.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.AssemblyReference.cache
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.AssemblyInfoInputs.cache
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.AssemblyInfo.cs
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.CoreCompileInputs.cache
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.MvcApplicationPartsAssemblyInfo.cache
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets.build.json
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets.development.json
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.LapShopPr.Microsoft.AspNetCore.StaticWebAssets.props
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.build.LapShopPr.props
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LapShopPr.props
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LapShopPr.props
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets.pack.json
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\scopedcss\bundle\LapShopPr.styles.css
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.Up2Date
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\refint\LapShopPr.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.pdb
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.genruntimeconfig.cache
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\ref\LapShopPr.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.RazorAssemblyInfo.cache
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.RazorAssemblyInfo.cs
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.staticwebassets.runtime.json
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.Resources.ResAdmin.resources
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.Resources.ResGeneral.resources
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.GenerateResource.cache
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Domains.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Domains.pdb
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.MvcApplicationPartsAssemblyInfo.cs
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Bl.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Bl.pdb
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Humanizer.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.CodeDom.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\mohamed\الاكواد\LapShopPr\LapShopPr\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\appsettings.Development.json
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\appsettings.json
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.staticwebassets.runtime.json
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.exe
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.deps.json
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.runtimeconfig.json
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\LapShopPr.pdb
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Azure.Core.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Azure.Identity.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Humanizer.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.CodeDom.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Memory.Data.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Bl.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Domains.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Bl.pdb
+E:\mohamed\Codes\LapShopPr\LapShopPr\bin\Debug\net8.0\Domains.pdb
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.AssemblyReference.cache
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.Resources.ResAdmin.resources
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.Resources.ResGeneral.resources
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.GenerateResource.cache
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.AssemblyInfoInputs.cache
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.AssemblyInfo.cs
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.CoreCompileInputs.cache
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.MvcApplicationPartsAssemblyInfo.cs
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.MvcApplicationPartsAssemblyInfo.cache
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.RazorAssemblyInfo.cache
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.RazorAssemblyInfo.cs
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.sourcelink.json
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets.build.json
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets.development.json
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.LapShopPr.Microsoft.AspNetCore.StaticWebAssets.props
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.build.LapShopPr.props
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LapShopPr.props
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LapShopPr.props
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\staticwebassets.pack.json
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\scopedcss\bundle\LapShopPr.styles.css
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.Up2Date
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\refint\LapShopPr.dll
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.pdb
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\LapShopPr.genruntimeconfig.cache
+E:\mohamed\Codes\LapShopPr\LapShopPr\obj\Debug\net8.0\ref\LapShopPr.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\appsettings.Development.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\appsettings.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\LapShopPr.staticwebassets.runtime.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\LapShopPr.exe
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\LapShopPr.deps.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\LapShopPr.runtimeconfig.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\LapShopPr.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\LapShopPr.pdb
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Azure.Core.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Azure.Identity.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Humanizer.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.CodeDom.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Memory.Data.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Bl.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Domains.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Bl.pdb
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\bin\Debug\net8.0\Domains.pdb
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.AssemblyReference.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.Resources.ResAdmin.resources
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.Resources.ResGeneral.resources
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.GenerateResource.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.AssemblyInfoInputs.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.AssemblyInfo.cs
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.CoreCompileInputs.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.MvcApplicationPartsAssemblyInfo.cs
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.MvcApplicationPartsAssemblyInfo.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.RazorAssemblyInfo.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.RazorAssemblyInfo.cs
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.sourcelink.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\staticwebassets.build.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\staticwebassets.development.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.LapShopPr.Microsoft.AspNetCore.StaticWebAssets.props
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.build.LapShopPr.props
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LapShopPr.props
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LapShopPr.props
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\staticwebassets.pack.json
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\scopedcss\bundle\LapShopPr.styles.css
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.csproj.Up2Date
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\refint\LapShopPr.dll
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.pdb
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\LapShopPr.genruntimeconfig.cache
+E:\mohamed\Codes\New folder (2)\LapShopProject\LapShopPr\obj\Debug\net8.0\ref\LapShopPr.dll
